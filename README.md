@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Programmer-cyberika
-- 👀 I’m interested in developing games.
-- 🌱 I’m currently learning Unity and C#.
+- 👀 I’m interested in A.P.I.
+- 🌱 I’m currently JSON.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
